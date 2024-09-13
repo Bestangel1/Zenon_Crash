@@ -4,23 +4,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "48459439078"
-global.ownername = "Toxxic Md"
-global.ytname = "Toxxic Md"
-global.socialm = "GitHub: Toxic1239"
-global.location = "Africa, Nigeria, Lagos"
+global.ownernomer = "242055617560"
+global.ownername = "𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 𝙈𝘿"
+global.ytname = "𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 𝙈𝘿"
+global.socialm = "GitHub: BrelMD"
+global.location = "Africa, Congo, Brazzaville"
 
-global.ownernumber = '48459439078'  //creator number
-global.ownername = 'Toxxic Md' //owner name
-global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
+global.ownernumber = '242055617560'  //creator number
+global.ownername = '💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)' //owner name
+global.botname = '𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 𝙈𝘿' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ZENON\n\nContact: 48459439078'
+global.author = 'ZENON\n\nContact: 242055617560'
 
 //console view/theme
 global.themeemoji = '💀'
-global.wm = "Toxxic Tech."
+global.wm = "𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 Tech."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'
@@ -33,9 +33,9 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
