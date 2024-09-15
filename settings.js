@@ -4,23 +4,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242055617560"
-global.ownername = "𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 𝙈𝘿"
-global.ytname = "𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 𝙈𝘿"
-global.socialm = "GitHub: BrelMD"
+global.ownernomer = "2250100282598"
+global.ownername = "♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜"
+global.ytname = "♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜"
+global.socialm = "GitHub: Bestangel1"
 global.location = "Africa, Congo, Brazzaville"
 
-global.ownernumber = '242055617560'  //creator number
-global.ownername = '💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)' //owner name
-global.botname = '𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 𝙈𝘿' //name of the bot
+global.ownernumber = 2250100282598'  //creator number
+global.ownername = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜' //owner name
+global.botname = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜ M⃠D⃠' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'ZENON\n\nContact: 242055617560'
+global.packname = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜'
+global.author = '♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜\n\nContact: 2250100282598'
 
 //console view/theme
-global.themeemoji = '💀'
-global.wm = "𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 Tech."
+global.themeemoji = '🌟♠️'
+global.wm = "♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜ Tech."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'
